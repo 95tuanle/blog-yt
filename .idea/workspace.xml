@@ -154,7 +154,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -350,12 +350,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550650736741</updated>
       <workItem from="1550650740393" duration="6872000" />
-      <workItem from="1550714171739" duration="5348000" />
+      <workItem from="1550714171739" duration="5552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12220000" />
+    <option name="totallyTimeSpent" value="12424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
